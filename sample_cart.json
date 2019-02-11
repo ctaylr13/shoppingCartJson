@@ -1,0 +1,47 @@
+{
+  "cart": {
+    "lineItems": [
+      {
+        "id": "10000",
+        "name": "Cherry Blossom 3D Greeting Card",
+        "type": "Greeting Card",
+        "price": "1300",
+        "tags": [
+          "mothers-day",
+          "sympathy",
+          "romantic",
+          "every-day"
+        ],
+        "quantity": 1
+      },
+      {
+        "id": "10003",
+        "name": "X-wing Starfighter",
+        "type": "Greeting Card",
+        "price": "1500",
+        "tags": [
+          "birthday",
+          "every day",
+          "licensed",
+          "star wars",
+          "fathers day"
+        ],
+        "quantity": 2
+      },
+      {
+        "id": "10010",
+        "name": "Star Wars Series I Collector's Edition 5 Pack",
+        "type": "Card Pack",
+        "price": "7500",
+        "tags": [
+          "holiday",
+          "card-pack",
+          "birthday",
+          "star wars",
+          "licensed"
+        ],
+        "quantity": 1
+      }
+    ]
+  }
+}
